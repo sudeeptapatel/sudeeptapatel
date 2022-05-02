@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudeeptapatel
-- 👀 I’m interested in web development and app development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning graphic designing and basics of web development.
 - 💞️ I’m a very much interested in exploring things.
 - 📫 How to reach me :
