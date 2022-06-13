@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudeeptapatel
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning graphic designing and basics of web development.
+- 🌱 I’m currently learning graphic designing and  web development.
 - 💞️ I’m a very much interested in exploring things.
 - 📫 How to reach me :
        Gmail - psudeepta2002.sp@gmail.com
